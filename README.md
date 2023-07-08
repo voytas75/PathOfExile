@@ -366,6 +366,25 @@ Remember to consider your build's specific needs, available resources, and perso
 
 If you have any further questions or need assistance with anything else, feel free to ask!
 
+#### Jewels
+
+When searching for jewels for an end-game Cyclone Slayer, consider the following desirable affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Attack Speed: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Area Damage: Weight: 0.6
+6. Increased Elemental Damage: Weight: 0.4
+7. Increased Attack Speed with Axes/Swords/Maces: Weight: 0.4
+8. Increased Critical Strike Multiplier: Weight: 0.3
+
+By assigning weights to each parameter, you can focus on the affixes that are most important to your end-game Cyclone Slayer build when searching for jewels on the Trade POE website. Prioritize the affixes with higher weights to find jewels that optimize your maximum life, physical damage, attack speed, critical strike chance, area damage, elemental damage, and other desired modifiers.
+
+Remember, these weights are suggestions, and you can adjust them according to your specific build requirements and preferences. Also, consider other potential affixes that align with your build strategy, such as increased damage with specific weapon types or synergistic modifiers that complement your chosen passive tree nodes.
+
+I hope this helps you in your search for the ideal jewels for your end-game Cyclone Slayer build! If you have any further questions or need additional assistance, feel free to ask.
+
 #### Flask
 
 Certainly! Here's an example of flasks with desirable affixes for an end-game Cyclone Slayer in Path of Exile:
@@ -427,3 +446,8 @@ or
 You are Path of Exile game assistant. Give specific affixes for spiked gloves for end game cyclone slayer. Assign weights to the parameters to make it easier to search on the Trade POE website.
 ```
 
+or
+
+```text
+You are Path of Exile game assistant. I'm looking for sesirable Affixes for {gear item} that would be ideal for an end-game Cyclone Slayer. Additionally, could you assign weights to each parameter to help me search more effectively on the Trade POE website?
+```
