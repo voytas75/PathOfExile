@@ -206,6 +206,15 @@ Desirable Affixes:
 4. **Added Physical Damage**: Look for affixes that add flat physical damage to attacks. These modifiers provide a direct boost to your Cyclone's damage output.
 5. **Increased Critical Strike Multiplier**: This affix increases the damage multiplier for critical strikes, amplifying the damage when you land critical hits.
 
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Physical Damage: Weight: 1.5
+2. Increased Attack Speed: Weight: 1.2
+3. Increased Critical Strike Chance: Weight: 1.0
+4. Increased Accuracy Rating: Weight: 0.8
+5. Increased Elemental Damage: Weight: 0.6
+6. Increased Life Leech: Weight: 0.4
+
 Remember, the specific affixes and their values can vary depending on the rarity and level of the item. It's essential to consider your build's specific needs and playstyle when selecting a two-handed weapon. Additionally, keep in mind that unique weapons can provide powerful synergistic effects or specialized benefits that may align with your Cyclone Slayer build.
 
 When searching for a rare two-handed weapon with these affixes, you can use trading platforms, in-game vendors, or crafting methods to find or create the desired item. Crafting options such as using crafting benches, currency modifiers, or fossil crafting can help enhance the affixes on your weapon.
@@ -259,6 +268,7 @@ When searching for an abyss jewel for a Stygian Vise belt for an end-game Cyclon
 By assigning weights to each parameter, you can focus on the affixes that are most important to your end-game Cyclone Slayer build when searching for abyss jewels on the Trade POE website. Prioritize the affixes with higher weights to find jewels that optimize your maximum life, physical damage, attack speed, critical strike chance, and other desired modifiers.
 
 Remember, these weights are suggestions, and you can adjust them according to your specific build requirements and preferences. Also, consider other potential affixes that align with your build strategy, such as increased elemental damage, increased area of effect, or additional defensive bonuses.
+
 #### Boots
 
 Certainly! Here's an example of boots with desirable affixes for an end-game Cyclone Slayer in Path of Exile:
@@ -273,6 +283,16 @@ Desirable Affixes:
 4. **Increased Attack Speed**: Look for affixes that increase your attack speed, allowing for faster Cyclone hits and increased damage output.
 5. **Increased Physical Damage**: Seek affixes that increase your physical damage, further boosting the effectiveness of your Cyclone.
 6. **Increased Life Regeneration**: Consider affixes that provide increased life regeneration to help sustain your health pool during battles.
+
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Movement Speed: Weight: 1.2
+3. Increased Physical Damage: Weight: 1.0
+4. Increased Attack Speed: Weight: 0.8
+5. Increased Elemental Resistances: Weight: 0.6
+6. Increased Evasion Rating/Armour: Weight: 0.4
+7. Increased Life Regeneration: Weight: 0.3
 
 The Two-Toned Boots base type grants dual resistance bonuses, making it easier to balance your elemental resistances.
 
@@ -319,6 +339,15 @@ Desirable Affixes:
 4. **Increased Critical Strike Chance**: This affix improves your chance to land critical strikes, resulting in higher damage potential.
 5. **Increased Elemental Resistances**: Prioritize affixes that increase your elemental resistances to ensure strong defenses against elemental damage.
 6. **Increased Global Physical Damage**: Look for affixes that increase your global physical damage, enhancing the overall effectiveness of your Cyclone.
+
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Attack Speed: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Elemental Damage: Weight: 0.6
+6. Increased Resistance(s): Weight: 0.4
 
 When searching for a rare amulet with these affixes, you can use trading platforms, in-game vendors, or crafting methods to find or create the desired item. Crafting options such as using crafting benches, currency modifiers, or fossils can help enhance the affixes on your amulet.
 
