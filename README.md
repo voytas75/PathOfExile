@@ -2,6 +2,35 @@
 
 ## Cyclone Slayer
 
+### Defence layers
+
+As a Cyclone Slayer in the end-game, it's important to invest in multiple defense layers to ensure your character's survivability. Here are some examples of top defense layers and recommendations on where to allocate your resources for optimal effectiveness:
+
+Layer 1: **Life Pool**
+
+Invest in maximum life through passive skill tree nodes, gear with high life modifiers, and jewels that provide additional life. Increasing your life pool is crucial as it provides a buffer against incoming damage.
+
+Layer 2: **Resistances**
+
+Maximize your elemental resistances, aiming for the cap of 75%. This can be achieved through gear with high resistance rolls, passive skills, and flask usage. Resistances reduce elemental damage taken, making you more resistant to various types of elemental attacks.
+
+Layer 3: **Physical Damage Reduction and Armor/Evasion**
+
+Acquire gear with high armor or evasion ratings to mitigate physical damage. Consider using skills like Molten Shell or Enduring Cry to gain additional layers of physical damage reduction or endurance charges for damage mitigation.
+
+Layer 4: **Life Leech and Recovery**
+
+Utilize life leech mechanics through passives or gear modifiers to replenish your life pool during combat. Consider using flasks with life recovery modifiers or unique items that provide significant life regeneration.
+
+Layer 5: **Mitigation Mechanics**
+
+Utilize defensive mechanics like dodge, block, or damage conversion to reduce incoming damage. Skills such as Vaal Grace or Arctic Armour can provide additional layers of defense.
+When allocating resources, prioritize investing in your life pool and resistances initially. These are fundamental layers that significantly impact your survivability. Then, focus on obtaining gear with high physical damage reduction, life leech, and other mitigation mechanics to bolster your defense.
+
+Remember that building a strong defense requires a balance between offense and defense. Find the right equilibrium that suits your playstyle and the challenges you face in the end-game content.
+
+I hope these examples and recommendations help you in building a formidable defense for your Cyclone Slayer! If you have any further questions or need additional assistance, feel free to ask.
+
 ### Gear
 
 To maximize the damage output of your Cyclone Slayer in Path of Exile, you'll want to focus on selecting the right gear and gems that synergize with the build. Here are some recommendations:
@@ -83,6 +112,15 @@ Desirable Affixes:
 3. **Increased Critical Strike Chance**: Critical strikes can deal significantly higher damage. This affix improves your chance to land critical strikes, increasing your overall damage output.
 4. **Increased Life**: Gloves with an increased life affix can provide a valuable boost to your survivability, increasing your maximum life pool.
 
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Attack Speed: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Maximum Life: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Accuracy Rating: Weight: 0.6
+6. Increased Elemental Resistances: Weight: 0.4
+
 Ideally, you would want a combination of these affixes on your gloves to maximize your damage and survivability. However, it's important to consider your build's specific needs and playstyle. If you have specific resistances or other stats that need to be capped or improved, you can prioritize those affixes as well.
 
 Remember that there are many powerful unique gloves in Path of Exile that can provide unique effects and synergies with certain builds. These gloves may offer specialized benefits that align with your Cyclone Slayer playstyle or build strategy. It's worth exploring unique gloves that suit your needs and preferences.
@@ -104,6 +142,15 @@ Desirable Affixes:
 3. **Increased Attack Speed**: This affix increases your Cyclone's attack speed, allowing for faster hits and increased damage.
 4. **Increased Area of Effect**: This affix expands the area covered by your Cyclone, making it easier to hit multiple enemies and deal more damage.
 5. **Increased Critical Strike Chance**: This affix improves your chance to land critical strikes, which can result in significantly higher damage.
+
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Attack Speed: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Elemental Resistances: Weight: 0.6
+6. Increased Armour/Evasion Rating: Weight: 0.4
 
 These affixes prioritize damage and survivability, which are crucial for an end-game Cyclone Slayer. However, it's important to consider your build's specific needs and playstyle. If you require certain resistances or have unique requirements based on your build, prioritize those affixes accordingly.
 
@@ -127,6 +174,15 @@ Desirable Affixes:
 4. **Increased Critical Strike Chance**: This affix improves your chance to land critical strikes, resulting in higher damage potential.
 5. **Increased Area of Effect**: This affix expands the area covered by your Cyclone, making it easier to hit multiple enemies and deal more damage.
 6. **Elemental Resistances**: Prioritize affixes that increase your elemental resistances, ensuring you have strong defenses against elemental damage.
+
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Attack Speed: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Elemental Resistances: Weight: 0.6
+6. Increased Armor/Evasion Rating: Weight: 0.4
 
 These affixes prioritize damage, survivability, and resistance coverage, which are crucial for an end-game Cyclone Slayer. However, it's important to consider your build's specific needs and playstyle. If you require specific resistances or have unique requirements based on your build, prioritize those affixes accordingly.
 
@@ -171,6 +227,14 @@ Desirable Affixes:
 5. **Increased Critical Strike Chance**: This affix improves your chance to land critical strikes, resulting in higher damage potential.
 6. **Increased Global Physical Damage**: Look for affixes that increase your global physical damage, enhancing the overall effectiveness of your Cyclone.
 
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Attack Speed: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Elemental Resistances: Weight: 0.6
+
 The Stygian Vise base type allows you to socket a Abyss Jewel, which can provide additional damage or defensive bonuses. Look for Abyss Jewels with desirable modifiers like increased physical damage, life, or attack speed to further enhance your build.
 
 When searching for a rare belt with these affixes, you can use trading platforms, in-game vendors, or crafting methods to find or create the desired item. Crafting options such as using crafting benches, currency modifiers, or fossils can help enhance the affixes on your belt.
@@ -179,6 +243,22 @@ Remember to consider your build's specific needs and playstyle when selecting a 
 
 If you have any further questions or need assistance with anything else, feel free to ask!
 
+#### Abyss jewel
+
+When searching for an abyss jewel for a Stygian Vise belt for an end-game Cyclone Slayer, consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Attack Speed: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Area Damage: Weight: 0.6
+6. Increased Elemental Damage: Weight: 0.4
+7. Increased Area of Effect: Weight: 0.4
+8. Increased Accuracy Rating: Weight: 0.3
+
+By assigning weights to each parameter, you can focus on the affixes that are most important to your end-game Cyclone Slayer build when searching for abyss jewels on the Trade POE website. Prioritize the affixes with higher weights to find jewels that optimize your maximum life, physical damage, attack speed, critical strike chance, and other desired modifiers.
+
+Remember, these weights are suggestions, and you can adjust them according to your specific build requirements and preferences. Also, consider other potential affixes that align with your build strategy, such as increased elemental damage, increased area of effect, or additional defensive bonuses.
 #### Boots
 
 Certainly! Here's an example of boots with desirable affixes for an end-game Cyclone Slayer in Path of Exile:
@@ -288,3 +368,24 @@ Remember, this is just an example, and you should adapt the passive tree based o
 Keep in mind that respeccing or adjusting your passive tree is possible in Path of Exile using refund points obtained through quests or orbs of regret. This allows you to fine-tune your build as you progress and gain more knowledge about your character's strengths and weaknesses.
 
 If you have any specific questions or need further guidance, feel free to ask!
+
+## Prompts
+
+### Defence layers
+
+```text
+You are Path of Exile game assistant. As a Cyclone Slayer in the end-game, which defense layers should I invest in? Can you provide examples of top defenses with all layers and suggest where to allocate resources for optimal effectiveness?
+```
+
+### Gear
+
+```text
+You are Path of Exile game assistant. I'm looking for specific affixes for {gear item} that would be ideal for an end-game Cyclone Slayer. Additionally, could you assign weights to each parameter to help me search more effectively on the Trade POE website?
+```
+
+or
+
+```text
+You are Path of Exile game assistant. Give specific affixes for spiked gloves for end game cyclone slayer. Assign weights to the parameters to make it easier to search on the Trade POE website.
+```
+
