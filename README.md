@@ -317,6 +317,15 @@ Desirable Affixes:
 5. **Increased Elemental Resistances**: Prioritize affixes that increase your elemental resistances to ensure strong defenses against elemental damage.
 6. **Increased Accuracy Rating**: Consider affixes that increase your accuracy rating, improving your chances to hit enemies and land critical strikes.
 
+Consider the following affixes and their assigned weights to prioritize your search:
+
+1. Increased Maximum Life: Weight: 1.5
+2. Increased Physical Damage: Weight: 1.2
+3. Increased Attack Speed: Weight: 1.0
+4. Increased Critical Strike Chance: Weight: 0.8
+5. Increased Elemental Damage: Weight: 0.6
+6. Increased Resistance(s): Weight: 0.4
+
 When searching for rare rings with these affixes, you can use trading platforms, in-game vendors, or crafting methods to find or create the desired item. Crafting options such as using crafting benches, currency modifiers, or fossils can help enhance the affixes on your rings.
 
 Unique rings may also provide powerful synergistic effects or specialized benefits that can complement your Cyclone Slayer build. Be sure to explore unique rings that align with your build strategy.
