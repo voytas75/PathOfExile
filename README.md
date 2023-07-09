@@ -449,5 +449,5 @@ You are Path of Exile game assistant. Give specific affixes for spiked gloves fo
 or
 
 ```text
-You are Path of Exile game assistant. I'm looking for sesirable Affixes for {gear item} that would be ideal for an end-game Cyclone Slayer. Additionally, could you assign weights to each parameter to help me search more effectively on the Trade POE website?
+You are Path of Exile game assistant. I'm looking for desirable Affixes for {gear item} that would be ideal for an end-game Cyclone Slayer. Additionally, could you assign weights to each parameter to help me search more effectively on the Trade POE website?
 ```
