@@ -1,5 +1,7 @@
 # Path of Exile
 
+![Path of Exile](https://github.com/voytas75/PathOfExile/blob/master/images/path_of_exile_occultist.png?raw=true "Path of Exile")
+
 ## Cyclone Slayer
 
 ### Defence layers
